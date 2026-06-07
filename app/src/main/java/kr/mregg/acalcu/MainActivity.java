@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
         webView.setWebChromeClient(new WebChromeClient());
 
         // Load the Calculator web application URL
-        webView.loadUrl("https://mregg-kr.github.io/Calculator");
+        webView.loadUrl("https://mregg-kr.github.io/calculator");
     }
 
     // Support going back in WebView history using hardware back button
